@@ -80,7 +80,7 @@ class Application:
 
         self.pname.place(x=300, y=400)
 
-    # function to speak the text and update the text
+    
 
     def func(self):
 
